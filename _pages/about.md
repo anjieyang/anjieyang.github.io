@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-🧑🏻‍💻 I'm a final year undergraduate studnet at the University of Ottawa.
+🧑🏻‍💻 I'm a final year undergraduate student at the University of Ottawa.
 
-🔬 My research interest are in machine learning and epidemiology.
+🔬 My research interests are in machine learning and epidemiology.
 
 📚 I'm currently working on tuberculosis trnamission prediction using traditional machine learning methods.
 
