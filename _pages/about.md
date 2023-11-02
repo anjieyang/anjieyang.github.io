@@ -18,7 +18,7 @@ redirect_from:
 
 # Selected Experience
 ## 👨🏻‍🔬 Research Experience
-I have research experience as an undergraduate research assistant at the University of Ottawa, where I focus on predicting tuberculosis transmission in the Yukon region using traditional machine learning methods.
+I have gained research experience as an undergraduate research assistant at the University of Ottawa, under the supervision of [Dr. Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/), focusing on predicting tuberculosis transmission in the Yukon region using traditional machine learning methods.
 
 ## 🤖 Open Source Contribution
 I have experience contributing to [A-Tune](https://gitee.com/openeuler/A-Tune), an OS tuning engine powered by AI. I developed a Bisection Performance Analysis Tool, improving commit tracking efficiency and reducing manual performance tuning efforts.
