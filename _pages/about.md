@@ -21,6 +21,4 @@ redirect_from:
 I have gained research experience as an undergraduate research assistant at the University of Ottawa, under the supervision of [Dr. Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/), focusing on predicting tuberculosis transmission in the Yukon region using traditional machine learning methods.
 
 ## 🤖 Open Source Contribution
-I have experience contributing to [A-Tune](https://gitee.com/openeuler/A-Tune), an OS tuning engine powered by AI. I developed a Bisection Performance Analysis Tool, improving commit tracking efficiency and reducing manual performance tuning efforts.
-
-Moreover, I also designed an efficient CLI for this tool, reducing setup time and enhancing productivity and debugging speed.
+I have experience contributing to [A-Tune](https://gitee.com/openeuler/A-Tune), an OS tuning engine powered by AI. I developed a Bisection Performance Analysis Tool with an eficient CLI, improving commit tracking efficiency and reducing manual performance tuning efforts.
