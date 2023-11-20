@@ -18,7 +18,9 @@ redirect_from:
 
 # Selected Experience
 ## 👨🏻‍🔬 Research Experience
-I have gained research experience as an undergraduate research assistant at the University of Ottawa, under the supervision of [Dr. Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/), focusing on predicting tuberculosis transmission in the Yukon region using traditional machine learning methods.
+My background includes work in [Dr. Karan Ahuja](https://karan-ahuja.com/)'s group as an undergraduate research intern at Northwestern University. Our project was at the exciting crossroads of XR, Generative AI, and 3D Design. My role involved fine-tuning Shap-E, a model capable of creating 3D objects based on text or image inputs, to make better output results.
+
+I also gained valuable experience as an undergraduate research assistant at the University of Ottawa, under the supervision of [Dr. Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/), focusing on predicting tuberculosis transmission in the Yukon region using traditional machine learning methods.
 
 ## 🤖 Open Source Contribution
 I have experience contributing to [A-Tune](https://gitee.com/openeuler/A-Tune), an OS tuning engine powered by AI. I developed a Bisection Performance Analysis Tool with an eficient CLI, improving commit tracking efficiency and reducing manual performance tuning efforts.
