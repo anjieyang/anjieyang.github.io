@@ -18,7 +18,7 @@ redirect_from:
 
 # Selected Experience
 ## 👨🏻‍🔬 Research Experience
-My background includes work in [Dr. Karan Ahuja](https://karan-ahuja.com/)'s group as an undergraduate research intern at Northwestern University. Our project was at the exciting crossroads of XR, Generative AI, and 3D Design. My role involved fine-tuning Shap-E, a model capable of creating 3D objects based on text or image inputs, to make better output results.
+My background includes work in [Dr. Karan Ahuja](https://karan-ahuja.com/)'s group as an undergraduate research intern at Northwestern University. Our project was at the exciting crossroads of XR, Generative AI, and 3D Design.
 
 I also gained valuable experience as an undergraduate research assistant at the University of Ottawa, under the supervision of [Dr. Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/), focusing on predicting tuberculosis transmission in the Yukon region using traditional machine learning methods.
 
