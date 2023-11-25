@@ -12,7 +12,7 @@ redirect_from:
 
 🔬 My research interests are in machine learning and epidemiology.
 
-📚 I'm currently working on predicting tuberculosis transmission using traditional machine learning methods.
+📚 I'm currently working on integrating XR and Gen AI in 3D design, and applying machine learning to epidemiology.
 
 🥰 I'm also interested in various machine learning domains, including Computer Vision and Natural Language Processing.
 
