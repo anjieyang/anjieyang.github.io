@@ -12,15 +12,15 @@ redirect_from:
 
 🔬 My research interests are in machine learning and epidemiology.
 
-📚 I'm currently working on tuberculosis transmission prediction using traditional machine learning methods.
+📚 I'm currently working on predicting tuberculosis transmission using traditional machine learning methods.
 
 🥰 I'm also interested in various machine learning domains, including Computer Vision and Natural Language Processing.
 
 # Selected Experience
 ## 👨🏻‍🔬 Research Experience
-My background includes work in [Dr. Karan Ahuja](https://karan-ahuja.com/)'s group as an undergraduate research intern at Northwestern University. Our project was at the exciting crossroads of XR, Generative AI, and 3D Design.
+My background includes work in [Dr. Karan Ahuja](https://karan-ahuja.com/)'s group as an undergraduate research intern at *Northwestern University*, focusing on the intersection of XR, Generative AI, and 3D Design.
 
-I also gained valuable experience as an undergraduate research assistant at the University of Ottawa, under the supervision of [Dr. Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/), focusing on predicting tuberculosis transmission in the Yukon region using traditional machine learning methods.
+I'm also an undergraduate research assistant at *University of Ottawa*, under the supervision of [Dr. Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/), focusing on traditional machine learning methods and epidemiology.
 
 ## 🤖 Open Source Contribution
-I have experience contributing to [A-Tune](https://gitee.com/openeuler/A-Tune), an OS tuning engine powered by AI. I developed a Bisection Performance Analysis Tool with an eficient CLI, improving commit tracking efficiency and reducing manual performance tuning efforts.
+I've worked on [A-Tune](https://gitee.com/openeuler/A-Tune), an AI-driven OS tuning engine. I built a tool for performance analysis with a user-friendly CLI, making commit tracking more efficient and reducing manual tuning work.
