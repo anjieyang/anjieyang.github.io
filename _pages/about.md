@@ -21,7 +21,7 @@ redirect_from:
 
 My background includes work in [Dr. Karan Ahuja](https://karan-ahuja.com/)'s group as an undergraduate research intern at Northwestern University, focusing on the intersection of **XR**, **Generative AI**, and **3D Design**.
 
-I'm also an undergraduate research assistant at University of Ottawa, under the supervision of [Dr. Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/), focusing on M**achine Learning** and E**pidemiology**.
+I'm also an undergraduate research assistant at University of Ottawa, under the supervision of [Dr. Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/), focusing on **Machine Learning** and **Epidemiology**.
 
 ## 🤖 Open Source Contribution
 
