@@ -9,11 +9,11 @@ redirect_from:
 ---
 🧑🏻‍💻 I'm a final year undergraduate student at the University of Ottawa.
 
-🔬 My research interests are in machine learning and epidemiology.
+🔬 My research interests are in Machine Learning and Epidemiology.
 
-📚 I'm currently working on integrating XR and Gen AI in 3D design, and applying machine learning to epidemiology.
+📚 I’m currently working on integrating XR and Gen AI in 3D design, and applying Machine Learning to Epidemiology.
 
-🥰 I'm also interested in various machine learning domains, including Computer Vision and Natural Language Processing.
+🥰 I'm also interested in various Machine Learning domains, including Computer Vision and Natural Language Processing.
 
 # Selected Experience
 
