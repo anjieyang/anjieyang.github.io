@@ -3,15 +3,16 @@ permalink: /
 title: "👋 Hello there, I'm Anjie!"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+   - /about/
+   - /about.html
 ---
+
 🧑🏻‍💻 I'm a final year undergraduate student at the University of Ottawa.
 
 🔬 My research interests are in Machine Learning and Epidemiology.
 
-📚 I’m currently working on integrating XR and Gen AI in 3D design, and applying Machine Learning to Epidemiology.
+📚 I’m currently working on integrating XR and Gen AI in 3D Design, and applying Machine Learning to Epidemiology.
 
 🥰 I'm also interested in various Machine Learning domains, including Computer Vision and Natural Language Processing.
 
