@@ -16,7 +16,7 @@ redirect_from:
 
 🥰 I'm also interested in various Machine Learning domains, including Computer Vision and Natural Language Processing.
 
-🎃 You can always contact me using the methods listed on the left (or in the follow button on mobile device).
+🎃 You can always contact me using the methods listed on the left (or by using the 'Follow' button on a mobile device).
 
 # Selected Experience
 
