@@ -8,7 +8,7 @@ redirect_from:
    - /about.html
 ---
 
-🧑🏻‍💻 I'm a final year undergraduate student at the University of Ottawa.
+🧑🏻‍💻 I'm a final-year (senior) undergrad majoring in Computer Science at the University of Ottawa.
 
 🔬 My research interests are in Machine Learning and Epidemiology.
 
