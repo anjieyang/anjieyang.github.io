@@ -4,19 +4,19 @@ title: "👋 Hello there, I'm Anjie!"
 excerpt: "About me"
 author_profile: true
 redirect_from:
-   - /about/
-   - /about.html
+  - /about/
+  - /about.html
 ---
 
-🧑🏻‍💻 I'm a final-year (senior) undergrad majoring in Computer Science at the University of Ottawa.
+🧑🏻‍💻 I'm an undergraduate student majoring in Computer Science at the University of Ottawa.
 
-🔬 My research interests are in Machine Learning and Epidemiology.
+🔬 My research interests are centered around Machine Learning, with a particular focus on Human-Computer Interaction (HCI) and AI-generated content (AIGC).
 
-📚 I’m currently working on integrating XR and Gen AI in 3D Design, and applying Machine Learning to Epidemiology.
+📚 I am currently involved in projects that utilize diffusion models to enhance HCI applications.
 
-🥰 I'm also interested in various Machine Learning domains, including Computer Vision and Natural Language Processing.
+🥰 Additionally, I am passionate about exploring various facets of Machine Learning, especially Computer Vision and multi-modal Large Language Models (MLLMs).
 
-🎃 You can always contact me using the methods listed on the left (or by checking the 'Follow' button on a mobile device).
+🎃 You can contact me by the methods listed on the left.
 
 # Selected Experience
 
