@@ -14,7 +14,7 @@ redirect_from:
 
 📚 I am currently involved in projects that utilize diffusion models to enhance HCI applications.
 
-🥰 Additionally, I am passionate about exploring various facets of Machine Learning, especially Computer Vision and multi-modal Large Language Models (MLLMs).
+🥰 Additionally, I am passionate about exploring various facets of Machine Learning, especially Multi-modal/Multi-sensory Large Language Models (MLLMs).
 
 🎃 You can contact me by the methods listed on the left.
 
@@ -22,7 +22,7 @@ redirect_from:
 
 ## 👨🏻‍🔬 Research Experience
 
-My background includes work in [Dr. Karan Ahuja](https://karan-ahuja.com/)'s group as an undergraduate researcher at Northwestern University, focusing on the intersection of **XR**, **Generative AI**, and **3D Design**.
+My background includes work in [SPICE Lab](https://spice-lab.org/) as an undergraduate research assistant, under the supervision of [Dr. Karan Ahuja](https://karan-ahuja.com/) at Northwestern University, focusing on the intersection of **XR**, **Generative AI**, and **3D Design**.
 
 I'm also an undergraduate research assistant at University of Ottawa, under the supervision of [Dr. Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/), focusing on **Machine Learning** and **Epidemiology**.
 
