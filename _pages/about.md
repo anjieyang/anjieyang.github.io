@@ -30,7 +30,7 @@ I'm also an undergraduate research assistant at University of Ottawa, under the 
 
 I'm currently a research intern at [Eigent AI](https://www.eigent.ai/), working on the CRAB project, a cross-environment AI agent benchmark framework, which enables agents to operate multiple devices simultaneously.
 
-I'm also a Software Development Intern at Dreamflows, where I develop data pipelines for a text-to-video generation model and architect scalable systems to enhance AI-driven content creation.
+I'm also a software development intern at Dreamflows, where I develop data pipelines for a text-to-video generation model and architect scalable systems to enhance AI-driven content creation.
 
 ## 🤖 Open Source Contribution
 
