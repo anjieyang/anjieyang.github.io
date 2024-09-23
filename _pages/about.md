@@ -26,6 +26,12 @@ My background includes work in [SPICE Lab](https://spice-lab.org/) as an undergr
 
 I'm also an undergraduate research assistant at University of Ottawa, under the supervision of [Dr. Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/), focusing on **Machine Learning** and **Epidemiology**.
 
+## 💻 Work Experience
+
+I'm currently a research intern at [Eigent AI](https://www.eigent.ai/), working on the CRAB project, a cross-environment AI agent benchmark framework, which enables agents to operate multiple devices simultaneously.
+
+I'm also a Software Development Intern at Dreamflows, where I develop data pipelines for a text-to-video generation model and architect scalable systems to enhance AI-driven content creation.
+
 ## 🤖 Open Source Contribution
 
 I've worked on [A-Tune](https://gitee.com/openeuler/A-Tune), an AI-driven OS tuning engine. I built a tool for performance analysis with a user-friendly CLI, making commit tracking more efficient and reducing manual tuning work.
