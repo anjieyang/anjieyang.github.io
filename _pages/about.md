@@ -24,9 +24,9 @@ redirect_from:
 
 I am an undergraduate research assistant at [SPICE Lab](https://spice-lab.org/) at Northwestern University, under the supervision of [Dr. Karan Ahuja](https://karan-ahuja.com/), focusing on the intersection of **HCI**, **Generative AI**, and **3D Design**.
 
-I am also an undergradute research intern at MIT Media Lab, under the supervision of [Dr. Paul Pu Liang](https://pliang279.github.io/), focusing on integrating **HCI**, **Generative AI**, and **XR**.
+I am also an undergraduate research intern at [MIT Media Lab](https://www.media.mit.edu/), under the supervision of [Dr. Paul Pu Liang](https://pliang279.github.io/), focusing on integrating **HCI**, **Generative AI**, and **XR**.
 
-I was an undergraduate research assistant at University of Ottawa previously, under the supervision of [Dr. Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/), focusing on **Machine Learning** and **Epidemiology**.
+Previously, I was an undergraduate research assistant at the University of Ottawa, under the supervision of [Dr. Yongyi Mao](https://www.eecs.uottawa.ca/~yymao/), focusing on **Machine Learning** and **Epidemiology**.
 
 ## 💻 Work Experience
 
