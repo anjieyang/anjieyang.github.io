@@ -22,7 +22,7 @@ redirect_from:
 
 ## 👨🏻‍🔬 Research Experience
 
-I am an undergraduate research assistant at [SPICE Lab](https://spice-lab.org/) at Northwestern University, under the supervision of [Dr. Karan Ahuja](https://karan-ahuja.com/), focusing on the intersection of **XR**, **Generative AI**, and **3D Design**.
+I am an undergraduate research assistant at [SPICE Lab](https://spice-lab.org/) at Northwestern University, under the supervision of [Dr. Karan Ahuja](https://karan-ahuja.com/), focusing on the intersection of **HCI**, **Generative AI**, and **3D Design**.
 
 I am also an undergradute research intern at MIT Media Lab, under the supervision of [Dr. Paul Pu Liang](https://pliang279.github.io/), focusing on integrating **HCI**, **Generative AI**, and **XR**.
 
