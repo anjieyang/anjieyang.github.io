@@ -12,7 +12,7 @@ redirect_from:
 
 🔬 My research interests are centered around Machine Learning, with a particular focus on Human-Computer Interaction (HCI) and AI-generated content (AIGC).
 
-📚 I am currently involved in projects that utilize diffusion models to enhance HCI applications.
+📚 I am currently involved in projects that utilize Generative AI to enhance HCI applications.
 
 🥰 Additionally, I am passionate about exploring various facets of Machine Learning, especially Multi-modal/Multi-sensory Large Language Models (MLLMs).
 
