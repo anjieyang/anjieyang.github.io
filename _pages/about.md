@@ -10,11 +10,11 @@ redirect_from:
 
 🧑🏻‍💻 I am an undergraduate student majoring in Computer Science at the University of Ottawa.
 
-🔬 My research interests are centered around Machine Learning, with a particular focus on Human-Computer Interaction (HCI) and AI-generated content (AIGC).
+🔬 My research interests are centered around Machine Learning, with a particular focus on Human-Computer Interaction (HCI), Large Language Models (LLMs), and AI-generated content (AIGC).
 
-📚 I am currently involved in projects that utilize Generative AI to enhance HCI applications.
+📚 I am currently working on enhancing human-AI interaction through communicative agents, exploring ways to make AI systems more intuitive and user-friendly.
 
-🥰 Additionally, I am passionate about exploring various facets of Machine Learning, especially Multi-modal/Multi-sensory Large Language Models (MLLMs).
+🥰 Additionally, I am passionate about exploring various facets of Machine Learning, especially Embodied AI, Multi-modal Learning, and Computer Vision.
 
 🎃 You can contact me by the methods listed on the left.
 
@@ -30,9 +30,11 @@ Previously, I was an undergraduate research assistant at the University of Ottaw
 
 ## 💻 Work Experience
 
-I am currently a research intern at [Eigent AI](https://www.eigent.ai/), working on the CRAB project, a cross-environment AI agent benchmark framework, which enables agents to operate multiple devices simultaneously.
+I am currently a research intern at [Eigent AI](https://www.eigent.ai/), working on the [Camel](https://github.com/camel-ai/camel) project, an open-source library designed to facilitate the development of communicative agents.
 
-I was also a software development intern at Dreamflows, where I developed data pipelines for a text-to-video generation model and architected scalable systems to enhance AI-driven content creation.
+I am also an AI Agent intern at [SoSoValue](https://sosovalue.com/), where I am developing autonomous agents that can post content, comment, and interact with users in online communities.
+
+Previously, I was a software development intern at Dreamflows, where I developed data pipelines for a text-to-video generation model and architected scalable systems to enhance AI-driven content creation.
 
 ## 🤖 Open Source Contribution
 
